@@ -1,9 +1,9 @@
-# Game Review for (GAME TITLE)
+# Game Review for Call of Duty: Black Ops
 
 ## Details
 
-### Call of Duty
-The name of the game, subtitle, and the url or information on how to find the game.
+### Call of Duty: Black Ops
+https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops
 
 ### Rating
 Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
