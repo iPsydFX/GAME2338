@@ -20,5 +20,7 @@ What I liked about this game is the control mechanics, if you're not a racer gam
 
 What I disliked about the game is open racing matches. Those types of matches are typically centered around racing to a spot on the map, because of that, you can end up taking long ways unless your familiar with the map or easily colliding into obstacles you can't see on the map, like cars or police barrades.
 
+I'm not fond of racing games, in fact I down right hate them, but this game is the first racing game I have actually enjoyed playing for hours on end.
+
 ## Additional Information
 https://www.gamespot.com/reviews/midnight-club-3-dub-edition-review/1900-6122200/
