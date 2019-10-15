@@ -2,7 +2,8 @@
 
 * Game Publisher: Sega
 * Game Rating: 12+
-* [Game Title Website] http://phantasystar.sega.jp/psp/ OR https://en.wikipedia.org/wiki/Phantasy_Star_Portable
+* Official Website(japanese): http://phantasystar.sega.jp/psp/ (do to the age of the game, the English site was taken down)
+* Wikipedia: https://en.wikipedia.org/wiki/Phantasy_Star_Portable
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Once you create your character and start the actual game, you are immediately given instructions on where to go to start your first mission. During the first mission, you are taken through a tutorial of the game mechanics and what controls do what. The rules were very understandable for the age range this game places. The storyline is progressional and understandable to what your main goal/objective is at that time.
