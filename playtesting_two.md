@@ -6,7 +6,7 @@
 https://m.mobilelegends.com/en
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
-> _Answer:_ The game starts you off with playing tutorial matches, so it does go into great detail of how to play the game.
+> _Answer:_ The game starts you off with playing tutorial matches, so it does go into great detail of how to play the game. How to move and use your actions.
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
 > _Answer:_ Again being biased, but the in app purchases don't need to be in the game, I think its a money maker and I understand being a free game, I can see why and how they make their money. You can buy some neat skins for the characters. The other thing I think can go is the little slime thing in the bottom right corner of the main screen. Clicking on it provides you tips for the game, but I don't think it's very necessary for the gameplay.
