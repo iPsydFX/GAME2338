@@ -37,12 +37,12 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | Testing movement, will only have automated movement all the way up and then down, repeated, no firing| The ship moves up when up is pressed, down when down is pressed | |			
+| 1 | Testing movement, will only have automated movement all the way up and then down, repeated, no firing| The ship moves up when up is pressed, down when down is pressed, this will also test collision of ship with object to make sure it works | |			
 | 2 | Testing movement, being random, no firing| Random presses of up and down to make sure the ship is consistent with movement | |			
 | 3 | Stationary shooting, will not move from spot, but will continously fire| Continous fire to make sure the missiles launch when button is pressed | |			
-| 4 | Movement all the way up and then down, repeated, while firing| | |			
-| 5 | Random movement, while firing| | |			
-| 6 | IF a pattern exists in the spwning of objects, replicate the pattern for movement and firing| | |			
+| 4 | Movement all the way up and then down, repeated, while firing| Control movement while firing to make sure combination actions can be performed, tests as well how far the automation can get into the level by movement and firing | |			
+| 5 | Random movement, while firing| Perform random movements up/down while firing to make sure fast movements will work | |			
+| 6 | IF a pattern exists in the spwaning of objects, replicate the pattern for movement and firing|Automate the pattern to see how far the computer can get as well as testing the objects to make sure they get destroyed when hit | |			
 | 7 | | | |			
 | 8 | | | |			
 | 9 | | | |			
