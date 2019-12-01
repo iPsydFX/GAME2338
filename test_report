@@ -22,11 +22,14 @@
 
 ### Test Environment
 
-(Paragraphs)
+My Test Environment consists of a MacBook (Retina, 12-inch, 2017) utilizing a Windows 10 Virtual Machine via Parallels Desktop Lite software. The Windows 10 VM runs Windows 10 Education N Version.
 
 #### Hardware Configuration
 
-(Paragraph)
+My hardware configurations: The Windows 10 VM will mimic the hardware configuration.
+CPU: 1.2GHz Dual-Core Intel Core m3
+RAM: 8GB 1867 Mhz LPDDR3
+Graphics: Intel HD Grpahics 615 1536MB
 
 ### Recommendation
 
